@@ -12,7 +12,7 @@ public class SupplierExample {
     * É comumente usada para criar ou fornecer novos objetos de um
      determinado tipo*/
 
-    public static void main(String[] args) {git
+    public static void main(String[] args) {
 //        usar supplier com expressão lambda para fornecer uma
 //        saudação personalizada.
 
